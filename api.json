@@ -1,0 +1,11 @@
+{
+  "products": [
+    {
+      "name": "K-Swiss V8 - Masculino",
+	    "image": "/imagens/layer.png",
+	    "price": 200,
+      "priceDiscount":"$100",
+      "discount":"30% OFF"
+    }
+  ]
+}
